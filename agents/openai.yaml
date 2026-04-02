@@ -1,0 +1,4 @@
+interface:
+  display_name: "法律法规切片 Skill"
+  short_description: "将法律法规文件切成法条记录并导出 JSONL 与清单结果"
+  default_prompt: "Use $legal-regulation-slicer-skill to slice legal and regulatory files into article-level JSONL outputs for later database ingestion."
